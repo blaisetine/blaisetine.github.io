@@ -20,10 +20,10 @@ Research Interests
 
 Systems, compilers and hardware support for heterogeneous architectures.
 
-Die-stacked memory architectures and applications in high performance computing.
-
 Reconfigurable and hybrid architectures for high performance computing using FPGAs.
 
 Software-hardware codesign of custom accelerators in Graph Analytics, Relational Databases and Machine Learning.
 
-Novel architectures for low-power graphics accelerator in VR and AR domains.
+Novel architectures for low-power graphics accelerator in AR and VR domains.
+
+High-bandwidth memory architectures and applications in high performance computing.
