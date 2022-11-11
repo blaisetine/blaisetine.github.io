@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Research
-======
-
 ## Research Assistant - Pacific Northwest Labs - Richland, WA - 2022
 Accelerating Graphics Workloads using Custom RISC-V Hardware Extensions.
 
@@ -55,15 +52,6 @@ Windows Mobile Graphics Team
 
 Collaborated to the design and implementation of the Direct3D graphics rasterizer on Windows CE. Implemented state-of-the art OpenGL ES software renderer with fixed function pipeline. Acquired experience in JIT compilation for ARM architectures.
 Acquired experience in kernel drivers development for embedded systems.
-
-## Software Developer - Microsoft - Redmond, WA - 2006
-Visual Studio Team
-
-Collaboared to the design and implementation of the Visual Studio IDE deployment framework. Implemented a full scale automation framework for validating applications deployment. Acquired experience in database and web services development using C++ and .Net technology.
-
-# Software Developer - IBM Almaden Research - San Jose, CA - 2000
-Designed and implemented data acquisition software for silicon sputtering machines.
-Researched novel algorithms to speed up data acquisition using LabView. Worked closely with IBM researchers and learned core methodologies of experimental research.
 
 Proficient Skills
 ======
