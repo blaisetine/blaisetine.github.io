@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Blaise-Pascal Tine"
   avatar           : "profile.jpg"
-  bio              : "PhD. Student at Georgia Institute of Technology"
-  location         : "Atlanta, GA"
-  employer         :
+  bio              : "Assistant Professor"
+  location         : "Los Angeles, CA"
+  employer         : UCLA
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?hl=en&user=HxCaIqwAAAAJ
-  email            : blaisetine@gatech.edu
+  email            : blaisetine@cs.ucla.edu
   researchgate     :  
   uri              :
   bitbucket        :

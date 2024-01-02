@@ -8,12 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in the school of Computer Science at [Georgia Institute of Technology](https://www.cc.gatech.edu/).
-I am advised by [Prof. Hyesoon Kim](https://www.cc.gatech.edu/fac/hyesoon) and was also priviledged to have worked under [Prof. Sudakar Yalamanchili](https://www.microarch.org/sudha.html). My research interests are in the area of hardware accelerators and software co-design, focusing in the architecture design, programming languages and compiler tools to support heterogenous computing. I'm also interested in domain-specific applications of accelerators such as 3D graphics, graphs analytics, and machine learning. 
+I am an Assistant Professor in the Computer Science Department at UCLA, where I lead the Open-Source Research in Computer Architecture and Systems (ORCAS) lab.
 
-I have a strong passion for teaching and doing research that promotes the accessibility and democratization of scientific knowlegde for the masses, contributing in several open-source projects and initiatives. The [Vortex project](https://vortex.cc.gatech.edu/) is a "dream come true" initiative to open-up the full graphics processing unit software and hardware stacks, and provide a detailed microarchitecture pipeline that enables accelerators research in graphics, relational databases, graph analytics, and machine learning.
+ My research interests lie in software-hardware co-design for domain-specific accelerators, focusing on microarchitecture design, programming languages, and compiler tools to support heterogeneous computing. I am also invested in developing innovative methodologies, tooling optimizations, and infrastructures to overcome the prevalent limitations in hardware development for open-source research.
 
-Prior to pursing my graduate eduction, I was fortunate to have had a long industry experience working on compilers, language, and simulation tools for graphics processors at Microsoft, playing at the intersection between the application developer, the operating system, and hardware. I also had the privilege to intern at many prestigious reseach groups including [Catapult Project](https://www.microsoft.com/en-us/research/project/project-catapult/) at Microsoft Reseach, Hardware Accelerator Research Program (HARP) at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), Storage Systems Group at [IBM Alamaden Research](https://research.ibm.com/labs/almaden/), [Future Technologies group](https://www.ornl.gov/group/ft) at Oak Ridge Labs, [High-Performance Computing group](https://www.pnnl.gov/high-performance-computing) at Pacific Northwest Labs.
+I possess a profound passion for teaching and conducting research that promotes the accessibility and democratization of scientific knowledge, contributing to several open-source projects and initiatives. The [Vortex project](https://vortex.cc.gatech.edu/)  is an initiative aimed at opening up the complete software, compiler, and hardware stacks of graphics processing units to enable detailed microarchitecture hardware research explorations in graphics, graph analytics, and machine learning.
+
+Before joining UCLA. I was a PhD Student in the school of Computer Science at [Georgia Institute of Technology](https://www.cc.gatech.edu/) under the guidance of Prof. Hyesoon Kim and Prof. Sudakar Yalamanchili.
+
+Prior to my graduate studies, I garnered extensive industry experience working on compilers, languages, and simulation tools for graphics processors at Microsoft. I also had the privilege of interning at several prestigious research groups including [Catapult Project](https://www.microsoft.com/en-us/research/project/project-catapult/) at Microsoft Reseach, Hardware Accelerator Research Program (HARP) at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), Storage Systems Group at [IBM Alamaden Research](https://research.ibm.com/labs/almaden/), [Future Technologies group](https://www.ornl.gov/group/ft) at Oak Ridge Labs, [High-Performance Computing group](https://www.pnnl.gov/high-performance-computing) at Pacific Northwest Labs.
+
+My journey has been a blend of academic rigor and industry experience, shaping my commitment to advancing technology and education.
 
 Research Interests
 ======
