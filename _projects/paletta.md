@@ -6,6 +6,6 @@ pageurl: "https://blaisetine.github.io/paletta"
 date: 2014-01-01
 ---
 
-Paletta is digital painting software that simulates oil painting via a proprietary color mixing algorithm.
+Paletta is digital painting software that simulates oil painting using a custom color-mixing model.
 
-This software was implemented completly using HTML5, Javascript, and CSS, and leverages Just-in-time compilation in the browser to deliver hight-speed rendering.
+This software was implemented completely using HTML5, Javascript, and CSS, and leverages Just-in-time compilation in the browser to deliver high-speed rendering.

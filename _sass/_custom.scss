@@ -1,0 +1,65 @@
+/* ==========================================================================
+   Site-specific styles
+   ========================================================================== */
+
+/* Publication entries: compact title, authors, and venue */
+.pub-item {
+  margin-bottom: 1.25em;
+
+  .pub-item__title {
+    margin: 0 0 0.2em;
+    font-size: $type-size-5;
+    font-weight: bold;
+    line-height: 1.35;
+
+    a {
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .pub-item__authors,
+  .pub-item__venue {
+    margin: 0;
+    font-size: 0.85em;
+    line-height: 1.5;
+  }
+
+  .pub-item__venue {
+    color: $gray;
+  }
+}
+
+/* Lab page: figure beside the introduction on wide screens */
+.lab-hero {
+  display: block;
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto 1em;
+
+  @include breakpoint($medium) {
+    float: right;
+    width: 42%;
+    margin: 0 0 1em 1.5em;
+  }
+}
+
+.page__content h2 {
+  clear: both;
+}
+
+/* Lab page: names in columns */
+.people-list {
+  columns: 3 11em;
+  margin: 0 0 1em;
+  padding: 0;
+  list-style: none;
+
+  li {
+    margin: 0 0 0.35em;
+    break-inside: avoid;
+  }
+}

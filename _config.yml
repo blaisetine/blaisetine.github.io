@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Blaise-Pascal Tine"
 title_separator          : "-"
 name                     : &name "Blaise-Pascal Tine"
-description              : &description "personal description"
+description              : &description "Blaise-Pascal Tine, Assistant Professor of Computer Science at UCLA and director of the ORCAS lab (Open-Source Research in Computer Architecture and Systems)."
 url                      : https://blaisetine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "blaisetine/blaisetine.github.io"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Blaise-Pascal Tine"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor of Computer Science, UCLA · ORCAS Lab"
   location         : "Los Angeles, CA"
   employer         : UCLA
   pubmed           : 
@@ -181,9 +181,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -194,17 +191,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -220,7 +206,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -229,16 +214,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
@@ -255,7 +230,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
 
 # Sass/SCSS
 sass:

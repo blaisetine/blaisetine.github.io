@@ -1,19 +1,22 @@
-# main links links
+# main links
 main:
+  - title: "Research"
+    url: /research/
+
+  - title: "ORCAS Lab"
+    url: /lab/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Projects"
+    url: /projects/
 
   - title: "Teaching"
     url: /teaching/
-               
-  - title: "Work Experience"
-    url: /work/
 
-  - title: "Projects"
-    url: /projects/
-    
+  - title: "Talks"
+    url: /talks/
+
   - title: "Contact"
     url: /contact/
