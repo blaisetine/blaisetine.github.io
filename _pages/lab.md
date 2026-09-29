@@ -3,13 +3,7 @@ layout: archive
 title: "ORCAS Lab"
 permalink: /lab/
 author_profile: true
-custom_header: true
 ---
-
-<div class="lab-header">
-  <img src="/images/orcas-logo.png" alt="ORCAS lab logo">
-  <h1 class="page__title">ORCAS Lab</h1>
-</div>
 
 <img class="lab-hero" src="/images/orcas-banner.svg" alt="Vortex GPU architecture: the GPU core pipeline above a chip with GPU, CPU, and NPU">
 
