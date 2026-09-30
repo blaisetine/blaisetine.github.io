@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+<img class="research-hero" src="/images/vortex-stack.svg" alt="The Vortex stack in layers: application APIs (OpenCL, CUDA, HIP, Vulkan), compilers, runtime and drivers, the RISC-V SIMT ISA, the microarchitecture, and the FPGA or ASIC chip with HBM">
+
 My research program is built around [Vortex](https://vortexgpgpu.github.io/), a full-stack, open-source RISC-V GPU. A credible open GPU platform is a prerequisite for reproducible architecture research, and for hands-on education that is not locked inside proprietary hardware. Vortex has since grown into each major domain of modern GPU architecture.
 
 ## Memory and graphics

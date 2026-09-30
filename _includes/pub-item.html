@@ -3,5 +3,5 @@
 <div class="pub-item">
   <p class="pub-item__title"><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a></p>
   <p class="pub-item__authors">{{ authors }}</p>
-  <p class="pub-item__venue"><i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}{% if post.doi %} &middot; <a href="https://doi.org/{{ post.doi }}">DOI</a>{% endif %}{% if post.paperurl %} &middot; <a href="{{ post.paperurl }}">PDF</a>{% endif %}</p>
+  <p class="pub-item__venue"><i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}{% if post.doi %} &middot; <a href="https://doi.org/{{ post.doi }}">DOI</a>{% endif %}{% if post.paperurl %} &middot; <a href="{{ post.paperurl }}">PDF</a>{% endif %}{% if post.codeurl %} &middot; <a href="{{ post.codeurl }}">Code</a>{% endif %}</p>
 </div>
