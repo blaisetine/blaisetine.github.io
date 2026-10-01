@@ -1,7 +1,6 @@
 ---
 title: "The Day My Plane Crashed"
 subtitle: "A true story about learning to fly"
-section: kids
 date: 2026-09-30
 image: /images/pensees/plane/backyard-launch.jpg
 description: "How a broken model plane taught me the science of flight: thrust, drag, lift, weight, and the airfoil."

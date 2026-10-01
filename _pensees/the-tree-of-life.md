@@ -1,7 +1,6 @@
 ---
 title: "The Tree of Life"
 subtitle: "A two-part story for curious kids"
-section: kids
 date: 2026-10-01
 image: /images/pensees/tree-of-life/galapagos-finches.png
 description: "The secret hiding in plain sight, and how life changes: from wolves to poodles, Darwin's finches, DNA, and our family tree."
