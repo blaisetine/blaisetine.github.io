@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 262" role="img" font-family="Georgia, 'Times New Roman', serif" aria-label="Left: a model plane with four arrows. Lift points up, weight points down, thrust points forward and drag points back. Right: a wing cross-section that is rounder on top. Air flows faster over the top, so pressure there is lower, and the higher pressure underneath pushes the wing up.">
+      <rect width="740" height="262" fill="#ffffff"/><defs>
+        <marker id="ahSky" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto">
+          <path fill="#2f6a96" d="M0,0 L10,5 L0,10 Z"/>
+        </marker>
+        <marker id="ahOchre" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto">
+          <path fill="#b5651d" d="M0,0 L10,5 L0,10 Z"/>
+        </marker>
+        <marker id="ahs" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+          <path d="M0,0 L10,5 L0,10 Z" fill="#2a2622"/>
+        </marker>
+      </defs>
+
+      <text x="208" y="18" text-anchor="middle" font-size="13" font-weight="600" fill="#2a2622" letter-spacing="1.5">FOUR FORCES</text>
+      <text x="548" y="18" text-anchor="middle" font-size="13" font-weight="600" fill="#2a2622" letter-spacing="1.5">THE AIRFOIL</text>
+      <line x1="392" y1="34" x2="392" y2="246" stroke="#2a2622" stroke-opacity=".18" stroke-width="1"/>
+
+      <!-- model plane, side view, flying right -->
+      <g transform="translate(40,0)" fill="#2a2622" fill-opacity=".1" stroke="#2a2622" stroke-width="2" stroke-linejoin="round">
+        <path d="M82 128 L72 94 L94 94 L114 117 Z"/>
+        <path d="M80 130 C80 119 108 113 160 113 L228 115 C248 117 260 124 262 130 C260 136 248 140 228 141 L110 142 C92 142 80 138 80 130 Z"/>
+        <ellipse cx="172" cy="129" rx="44" ry="5.5"/>
+        <line x1="268" y1="108" x2="268" y2="152"/>
+        <circle cx="265" cy="130" r="3.5" fill="#2a2622" fill-opacity="1"/>
+      </g>
+
+      <g stroke-width="4" fill="none" stroke-linecap="round">
+        <line x1="212" y1="106" x2="212" y2="44" stroke="#2f6a96" marker-end="url(#ahSky)"/>
+        <line x1="212" y1="152" x2="212" y2="214" stroke="#2f6a96" marker-end="url(#ahSky)"/>
+        <line x1="318" y1="130" x2="378" y2="130" stroke="#b5651d" marker-end="url(#ahOchre)"/>
+        <line x1="104" y1="130" x2="44" y2="130" stroke="#b5651d" marker-end="url(#ahOchre)"/>
+      </g>
+      <g font-size="15" font-weight="600">
+        <text x="224" y="56" fill="#2f6a96">Lift</text>
+        <text x="224" y="212" fill="#2f6a96">Weight</text>
+        <text x="348" y="118" text-anchor="middle" fill="#b5651d">Thrust</text>
+        <text x="74" y="118" text-anchor="middle" fill="#b5651d">Drag</text>
+      </g>
+      <text x="208" y="242" text-anchor="middle" font-size="12" fill="#2a2622" fill-opacity=".7">Lift beats weight, thrust beats drag: it flies.</text>
+
+      <!-- airfoil: rounder on top, flatter below -->
+      <g fill="none" stroke="#2a2622" stroke-opacity=".55" stroke-width="1.6">
+        <path d="M410 82 C470 46 600 46 712 84" marker-end="url(#ahs)"/>
+        <path d="M410 116 C470 70 600 70 712 116" marker-end="url(#ahs)"/>
+        <path d="M410 168 C480 180 600 180 712 160" marker-end="url(#ahs)"/>
+        <path d="M410 200 C480 208 600 208 712 194" marker-end="url(#ahs)"/>
+      </g>
+      <path d="M440 140 C466 98 572 92 690 140 C580 151 480 153 440 140 Z" fill="#b5651d" stroke="#b5651d" fill-opacity=".85" stroke-width="1.5"/>
+      <g stroke="#2f6a96" stroke-width="3" stroke-linecap="round">
+        <line x1="510" y1="178" x2="510" y2="156" marker-end="url(#ahSky)"/>
+        <line x1="565" y1="178" x2="565" y2="156" marker-end="url(#ahSky)"/>
+        <line x1="620" y1="176" x2="620" y2="154" marker-end="url(#ahSky)"/>
+      </g>
+      <text x="560" y="42" text-anchor="middle" font-size="13" fill="#2a2622">Air speeds up over the top: lower pressure</text>
+      <text x="560" y="230" text-anchor="middle" font-size="13" fill="#2a2622">Higher pressure underneath pushes the wing up</text>
+      <text x="404" y="146" font-size="12" fill="#2a2622" fill-opacity=".7">air</text>
+    </svg>

@@ -71,3 +71,106 @@
   margin: 0 0 1.5em;
   border-radius: 8px;
 }
+
+/* Pensées: story list and story pages */
+.pensee-list {
+  margin: 1.5em 0;
+}
+
+.pensee-card {
+  display: flex;
+  gap: 1.25em;
+  align-items: flex-start;
+  margin: 0 0 1.5em;
+  padding: 0 0 1.5em;
+  border-bottom: 1px solid $border-color;
+  color: inherit;
+  text-decoration: none;
+
+  &:hover .pensee-card__title {
+    text-decoration: underline;
+  }
+}
+
+.archive a.pensee-card,
+.archive a.pensee-card:hover {
+  text-decoration: none;
+}
+
+.pensee-card__image {
+  flex: 0 0 180px;
+  width: 180px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.pensee-card__body {
+  display: block;
+}
+
+.pensee-card__title {
+  display: block;
+  font-size: $type-size-4;
+  font-weight: bold;
+  color: $link-color;
+}
+
+.pensee-card__subtitle {
+  display: block;
+  font-style: italic;
+  color: $gray;
+}
+
+.pensee-card__desc {
+  display: block;
+  margin-top: 0.4em;
+  font-size: 0.9em;
+}
+
+.pensee-card__date {
+  display: block;
+  margin-top: 0.4em;
+  font-size: 0.8em;
+  color: $gray;
+}
+
+@include breakpoint(max-width $small) {
+  .pensee-card {
+    flex-direction: column;
+  }
+
+  .pensee-card__image {
+    flex: none;
+    width: 100%;
+    height: 180px;
+  }
+}
+
+.pensees-note,
+.pensees-back {
+  font-size: 0.85em;
+  color: $gray;
+}
+
+.page__subtitle {
+  margin-top: -0.25em;
+  font-size: $type-size-4;
+  font-style: italic;
+  color: $gray;
+}
+
+/* Pensées: figures with the caption underneath */
+.pensee p > img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto 0.5em;
+  border-radius: 6px;
+}
+
+.pensee p > img + em {
+  display: block;
+  text-align: center;
+  font-size: 0.85em;
+  color: $gray;
+}
