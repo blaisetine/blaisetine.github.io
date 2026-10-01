@@ -73,9 +73,11 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "goatcounter" # false, "google", "google-universal", "goatcounter", "custom"
   google:
     tracking_id          :
+  goatcounter:
+    code                 : "blaisetine" # dashboard: https://blaisetine.goatcounter.com
 
 
 # Site Author
