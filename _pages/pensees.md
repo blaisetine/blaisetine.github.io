@@ -22,4 +22,4 @@ Stories and reflections outside the lab, many of them written for curious kids.
 {% endfor %}
 </div>
 
-<p class="pensees-note">Personal writing. Views are my own, not UCLA's.</p>
+<p class="pensees-note">Personal writing. Views are my own.</p>
