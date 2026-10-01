@@ -5,21 +5,22 @@ permalink: /pensees/
 author_profile: false
 ---
 
-Stories and reflections outside the lab, many of them written for curious kids.
+Stories and reflections outside the lab: science for curious kids, things I build, and thoughts on Africa and painting.
 
-{% assign items = site.pensees | sort: "date" | reverse %}
-<div class="pensee-list">
-{% for post in items %}
-  <a class="pensee-card" href="{{ base_path }}{{ post.url }}">
-    {% if post.image %}<img class="pensee-card__image" src="{{ base_path }}{{ post.image }}" alt="">{% endif %}
-    <span class="pensee-card__body">
-      <span class="pensee-card__title">{{ post.title }}</span>
-      {% if post.subtitle %}<span class="pensee-card__subtitle">{{ post.subtitle }}</span>{% endif %}
-      <span class="pensee-card__desc">{{ post.description }}</span>
-      <span class="pensee-card__date">{{ post.date | date: "%B %Y" }}</span>
-    </span>
-  </a>
+{% for section in site.data.pensees %}
+{% assign items = site.pensees | where: "section", section.id | sort: "date" | reverse %}
+{% if items.size > 0 %}
+<section class="pensee-section">
+  <h2 class="pensee-section__title"><a href="{{ base_path }}/pensees/{{ section.id }}/">{{ section.title }}</a></h2>
+  <p class="pensee-section__desc">{{ section.description }}</p>
+  <div class="pensee-grid">
+  {% for post in items limit: 3 %}
+    {% include pensee-card.html %}
+  {% endfor %}
+  </div>
+  <p class="pensee-section__more"><a href="{{ base_path }}/pensees/{{ section.id }}/">All {{ section.title }} ({{ items.size }}) &rarr;</a></p>
+</section>
+{% endif %}
 {% endfor %}
-</div>
 
 <p class="pensees-note">Personal writing. Views are my own, not UCLA's.</p>

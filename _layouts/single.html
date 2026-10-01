@@ -58,7 +58,7 @@ layout: default
 
       <section class="page__content{% if page.collection == 'pensees' %} pensee{% endif %}" itemprop="text">
         {{ content }}
-        {% if page.collection == 'pensees' %}<p class="pensees-back"><a href="{{ base_path }}/pensees/">&larr; All Pensées</a></p>{% endif %}
+        {% if page.collection == 'pensees' %}{% assign section = site.data.pensees | where: "id", page.section | first %}<p class="pensees-back">{% if section %}<a href="{{ base_path }}/pensees/{{ section.id }}/">&larr; {{ section.title }}</a> &middot; {% endif %}<a href="{{ base_path }}/pensees/">All Pensées</a></p>{% endif %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 

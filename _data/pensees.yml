@@ -1,0 +1,13 @@
+# Pensées sections, in display order. A section appears once it has a story.
+- id: kids
+  title: "For Curious Kids"
+  description: "Science stories for children and teens."
+- id: lego
+  title: "LEGO Builds"
+  description: "LEGO Technic and robotics projects, from first sketch to working machine."
+- id: graphics
+  title: "3D Graphics"
+  description: "OpenGL and how computers draw 3D worlds."
+- id: essays
+  title: "Essays"
+  description: "Reflections on Africa, painting, and life."
