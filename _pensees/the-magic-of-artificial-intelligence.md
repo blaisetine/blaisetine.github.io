@@ -21,9 +21,7 @@ Two watchers sit on the hills at the edge of the valley. Mina, on the lower hill
 
 ### Thunder
 
-One afternoon, Echo hears a sound unlike anything she has heard before.
-
-**BOOM.**
+One afternoon, Echo hears a sound unlike anything she has heard before: **BOOM.**
 
 Echo does what watchers do when something unusual happens: she sends messengers into the village. But nobody knows what the sound means, so they carry only a simple warning: *something happened.*
 
