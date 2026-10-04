@@ -2,66 +2,110 @@
 title: "The Magic of Artificial Intelligence"
 subtitle: "A two-part series for readers 12 and up"
 date: 2026-09-28
-image: /images/pensees/ai/rabbit-village.jpg
+image: /images/pensees/ai/village-after.jpg
 description: "How a brain learns, how a machine learns, and how to keep your own brain in charge."
 ---
 
 ## Part 1: How a Brain Learns
 
-![A village of small houses connected by dirt roads. On the left, Echo the gray rabbit hears thunder under a dark cloud labeled "BOOM!". Orange arrows carry the message along the roads toward a carrot store on the right, where Mina the white rabbit stands in the rain. A blue arrow marks a new shortcut cut across the grass between two roads.](/images/pensees/ai/rabbit-village.jpg)
-*Echo hears the thunder, Mina feels the rain, and after enough storms a new shortcut appears in the village.*
+Briar Glen is an old rabbit village spread across a wide green valley. Families dug burrows wherever they found good ground, burrows became houses, and trails slowly appeared between them. Some trails are broad and busy. Others twist through the grass, slip behind bushes, or fade away near the rocks.
+
+At the far end of the valley stands the carrot bank, where the rabbits keep the harvest that feeds the village through the winter. Rain is its great enemy. When a heavy shower begins, messengers race to the carrot bank, and the guards pull a big cover over the carrots.
+
+This has happened for generations. Thousands of rabbits running to the carrot bank during thousands of storms have flattened the grass and pushed the bushes aside, until one wide trail formed: the old rain road. Rain is written into the paths of Briar Glen.
+
+Two watchers sit on the hills at the edge of the valley. Mina, on the lower hill, watches for rain. Above her, on the high rock, sits Echo, who has unusually good ears.
+
+![Panel A, Before learning: a green valley dotted with round burrow houses and crossed by many faint dirt trails. On the left, Echo the brown rabbit sits on a high rock and Mina the white rabbit on a lower hill. A wide trail labeled "Old rain road" runs from Mina's hill to the carrot bank on the right, where two guard rabbits stand beside a pile of carrots under a green cover.](/images/pensees/ai/village-before.jpg)
+*Before learning: the old rain road leads from Mina's hill to the carrot bank. From Echo's rock, there are only faint trails.*
+
+### Thunder
+
+One afternoon, Echo hears a sound unlike anything she has heard before.
 
 **BOOM.**
 
-Echo the rabbit lives at the edge of a village. Her job is to listen for sounds from the sky. Not far away, her friend Mina watches for water falling from above. The village has never seen rain.
+Echo does what watchers do when something unusual happens: she sends messengers into the village. But nobody knows what the sound means, so they carry only a simple warning: *something happened.*
 
-Every house in the village is connected by roads to a few neighbors. A message can travel only from house to house, carried by running rabbits. There is no telephone and no town square. If Echo hears something, she tells her neighbors, they tell theirs, and the news slowly moves inward.
+The messengers scatter. One takes a faint trail through a meadow, another squeezes behind a bush, others choose different turns along the way. Some warnings are passed on; others fade into the everyday bustle of the village. Only one or two reach the carrot bank.
 
-One afternoon, Echo hears an enormous BOOM. She sends the news down the road. A few minutes later, Mina feels the first drops of water and sends a different message. Soon the rain is heavy enough to soak the village's carrot stores, and the rabbits rush to cover them. To the rabbits, the two events, the boom and the rain, have nothing to do with each other.
+That is not enough. Strange noises and false alarms are part of village life, so the guards follow a simple rule: act only when **enough** warnings arrive. They go back to work.
 
-Then it happens again. BOOM, then rain. And again. Each time, the same messages run through the same parts of the village. Roads that get used a lot become smoother and faster. Rabbits start cutting across the grass between houses that were never connected. After enough storms, those shortcuts become real paths.
+A few minutes later, Mina feels the first drops of rain. Her messengers leave at once, and this time the message travels differently. They run down the old rain road, other rabbits join them along the way, and warnings pour into the carrot bank. Enough arrive. The guards pull the cover over the carrots just in time.
 
-One day Echo hears BOOM, but no rain has started. Because the village has changed, her message races to the rabbits who guard the carrots. They cover them before Mina feels a single drop. Minutes later, the rain arrives.
+To everyone in Briar Glen, the two events are unrelated. Echo heard a strange boom. Later, it rained. Nothing more.
+
+Then it happens again. **BOOM**, and a few minutes later, rain. And again.
+
+### Running changes the ground
+
+Each time thunder sounds, Echo's messengers spread through the village. Each time the rain follows, Mina's messengers rush toward the carrot bank. Their routes are not the same, but in some places they overlap: the same gaps in the bushes, the same patches of grass, the same stretch of road near the carrot bank.
+
+One rabbit crossing tall grass leaves almost no trace. A hundred rabbits bend it down. A thousand rabbits make a trail. Once a trail is a little easier to follow, more rabbits choose it, and because more rabbits choose it, it becomes clearer still.
+
+Here is the secret: **timing**. A trail that only Echo's messengers use gets a little traffic once per storm, and the grass grows back. But a stretch that Echo's messengers run on, and that Mina's messengers run on again a few minutes later, gets trampled twice in every storm. Storm after storm, the trails from Echo's rock that lead where the rain messengers run grow wider, and the others fade. No rabbit decides this. The messengers simply run.
+
+![Three panels. B, Thunder: lightning over the valley; Echo's messengers scatter along many faint trails, and only a few reach the carrot bank, labeled "Not enough." C, Rain: heavy rain; Mina's messengers run in a line down the old rain road to the carrot bank, labeled "Enough." D, Repeated storms: lightning again; Echo's messengers follow one trail that is becoming a road toward the carrot bank, labeled "Path gets worn."](/images/pensees/ai/village-storms.jpg)
+*B: Thunder sends messengers everywhere, but not enough reach the carrot bank. C: Rain sends them down the old rain road, and enough arrive. D: Storm after storm, one trail from Echo's rock gets worn.*
+
+Then one afternoon, Echo hears another **BOOM**. She sends her messengers exactly as before. But they are no longer running through the same village. A trail that once disappeared into the grass is now a road. More messengers stay on it, and more make it through. One reaches the carrot bank. Then another. Then several more. Enough.
+
+The guards cover the carrots. But Mina has not sent a single message. It is not raining.
+
+A few minutes later, she feels the first drop. The rain arrives to find the carrots already covered.
+
+![Panel E, After learning: the same valley, houses, and old rain road as in panel A, but now a wider trail runs from Echo's rock down through the village and joins the old rain road to the carrot bank.](/images/pensees/ai/village-after.jpg)
+*After many storms: the thunder trail from Echo's rock has grown wider and joins the old rain road to the carrot bank. Compare it with the first picture.*
 
 ### Nobody taught the village
 
-The village has learned that thunder predicts rain. But look closely. There was no teacher, no lesson, and no wise rabbit who knew the answer in advance. Thunder and rain simply happened in the same order, again and again. Each repetition changed the roads a little. In the end, the first event was enough to prepare the village for the second.
+Briar Glen has learned that thunder predicts rain. But look at what happened. Echo never studied the weather. Mina never taught her anything. The guards still follow the same rule they always did: if enough warnings arrive, act. No messenger understands why one trail matters more than another. You could ask every rabbit in the village, and none of them could explain the rule *thunder predicts rain*. Yet the village behaves as though it knows.
 
-Here is the strange part. Where does that knowledge live? Not in any one rabbit. You could ask every rabbit in the village and none of them could explain the rule. The knowledge is in the roads. It is in the way the connections between houses have changed.
+Where does that knowledge live? It lives in the paths.
 
-Now take the rabbits out of the story. The houses become *neurons*, the cells that do the work in your brain. The roads become *synapses*, the connections between neurons. The running rabbits become the tiny electrical and chemical signals that flash through your brain every moment of your life.
+Nobody built that knowledge on purpose. The world kept repeating a pattern, thunder then rain, and each repetition left a small trace. The traces added up until the shape of the village matched something true about the world. That is the big idea: **a system does not have to know it is learning in order to learn.**
 
-The picture is simplified, but the central idea is real. Learning changes the connections in your brain.
+Now take the rabbits out of the story. The houses become *neurons*, the cells that process information in your brain. The trails become *synapses*, the connections through which neurons affect one another. The running rabbits become the tiny electrical and chemical signals flowing through the network. And the guards' rule, act only when enough warnings arrive, is how a real neuron works: it fires only when enough signals reach it.
+
+The picture is simplified. Real brains learn in many ways, and synapses do not turn into dirt roads. But the central idea is real: experience changes the connections that future signals travel through.
 
 ### Your brain is not a hard drive
 
-Most people imagine learning as putting facts into your head, the way you save a file on a computer. That is not how it works. Knowledge is not placed inside you. Learning changes the system that does the thinking.
+Most people imagine learning as putting information into your head, the way you save a file on a computer. That is not how it works. Learning changes the system that does the thinking.
 
-Your brain has about 86 billion neurons. That is more than ten times the number of people on Earth. You were not born with 86 billion blank cells waiting to be programmed. Before you were born, your genes had already built an enormous amount of structure. A newborn baby can breathe, swallow, turn toward sounds, and prefers faces over almost anything else. Nature gives the brain a remarkable starting point. But it does not finish the job. Experience keeps shaping the wiring for years.
+Your brain has about 86 billion neurons, more than ten times the number of people on Earth. You were not born with 86 billion blank cells waiting to be filled. Before you were born, your genes had already built a lot of structure: a newborn can breathe, swallow, turn toward sounds, and prefers to look at certain patterns, like faces. Nature provides the starting map. Experience keeps reshaping it.
 
-Scientists call this ability to change *neural plasticity*. Connections between neurons can get stronger or weaker. New ones can form. Unused ones can fade away. During childhood and your teenage years, your brain is rewiring itself constantly. Repetition matters because a path that is used again and again becomes fast and easy, just like the rabbits' shortcuts.
+Scientists call this ability to change *neural plasticity*. Connections between neurons can become stronger or weaker. New ones can form, and unused ones can fade, just like the trails of Briar Glen.
+
+Sleep is part of this process too. While you sleep, your brain replays what you learned during the day and strengthens the important parts. That is why an all-night study session is a poor trade: you gain a few hours of studying and lose the part of the night that makes the studying stick.
 
 ### Think about reading
 
-You can see the result in almost everything you know how to do. When you first learned to read, you had to recognize each letter, match it to a sound, glue the sounds into a word, and then connect the word to a meaning. Today you can look at a whole sentence and understand it without noticing any of those steps.
+When you first learned to read, you had to recognize each letter, match it to a sound, blend the sounds into a word, and connect the word to a meaning. Today you look at a sentence and understand it almost instantly.
 
-The sentence did not become easier. Your brain became better at processing it.
+The sentence did not become easier. **Your brain became better at processing it.**
 
-The same thing happens with typing, swimming, riding a bicycle, speaking a language, or playing an instrument. At first, a skill demands all of your attention. With practice, your brain reorganizes the job so that most of it runs automatically. This is why experts make hard things look effortless. Years of difficult practice have been turned into efficient brain wiring.
+The same thing happens with typing, swimming, riding a bicycle, speaking a language, or playing an instrument. At first, a skill takes all of your attention. With practice, your brain reshapes its network until the hard parts run on their own.
 
-Sleep is part of this process too. While you sleep, your brain replays and sorts what you learned during the day and locks the important parts in place. That is why an all-night study session is a poor trade. You gain a few hours of studying and lose the part of the night that makes the studying stick.
+This explains something strange: you often know more than you can explain. You recognize a friend's face without being able to say exactly what makes it theirs. You can hear that a sentence sounds wrong without knowing which grammar rule it breaks. A basketball player moves toward a pass before working out where the ball will land. Much of what your brain knows is not stored as sentences. It lives in the way the network responds, just as the village's knowledge lives in its paths.
 
-### A question that changed computer science
+### The world can be its own teacher
 
-By the time you are a teenager, your brain has been shaped by more than a decade of faces, words, friendships, mistakes, and practice. You are not just carrying those experiences around like a stack of files. They built the network you now use to understand everything new.
+Nobody told the village, "Thunder predicts rain." The pattern in the world was enough.
 
-Which leads to a question that computer scientists began asking decades ago. If a living brain can learn by changing its connections, could we build an artificial network that learns the same way?
+Human learning often works the same way. A baby hears thousands of sentences before anyone explains what a noun is. A toddler drops things over and over long before learning anything about gravity. You learned to read emotions from thousands of faces and voices without a single lesson on what an angry face looks like.
+
+Teachers, explanations, and practice still matter enormously, and the brain has many ways of learning. But the deepest lesson of Briar Glen is this: **learning can come from repeated experience, even when nobody inside the system understands the rule being learned.**
+
+By the time you are a teenager, your brain has been shaped by more than a decade of voices, faces, movements, mistakes, successes, books, and friendships. You do not carry those experiences around like files on a disk. They built the network you now use to understand everything new.
+
+Which leads to a remarkable question. If a living brain can learn by changing the strength of its connections, could we build an artificial network that does the same?
 
 The answer turned out to be yes. And that is where the magic of artificial intelligence begins. Next: how to build a brain out of numbers, why chatbots can be confidently wrong, and how to keep your own brain in charge.
 
 ### Words to know
 
-- **Neuron:** a brain cell that sends and receives signals.
+- **Neuron:** a brain cell that sends and receives signals. It fires when enough signals reach it.
 - **Synapse:** the connection between two neurons. Learning makes some synapses stronger and others weaker.
 - **Neural plasticity:** the brain's ability to rewire itself through experience.
 
