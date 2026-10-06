@@ -1,6 +1,6 @@
 ---
 title: "The Magic of Artificial Intelligence"
-subtitle: "A two-part series for readers 12 and up"
+subtitle: "A two-part series for readers 10 and up"
 date: 2026-09-28
 image: /images/pensees/ai/village-after.jpg
 description: "How a brain learns, how a machine learns, and how to keep your own brain in charge."
