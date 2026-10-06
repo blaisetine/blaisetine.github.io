@@ -1,6 +1,6 @@
 ---
 title: "The Walking Doll"
-subtitle: "A three-part story for readers 10 and up"
+subtitle: "A true story about a toy with a heartbeat"
 date: 2026-10-01 23:00
 image: /images/pensees/walking-doll/the-mystery.jpg
 description: "A walking doll, a swinging heart, and how robots learned to walk."

@@ -1,6 +1,6 @@
 ---
 title: "The Matryoshka Universe"
-subtitle: "A two-part story for curious kids"
+subtitle: "A journey from galaxies down to atoms"
 date: 2026-10-01 12:00
 image: /images/pensees/matryoshka/matryoshka-universe.jpg
 description: "The universe is built like a set of nesting dolls, from galaxies down to atoms, and the biggest doll made all the smaller ones."
