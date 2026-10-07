@@ -86,9 +86,9 @@ Here’s something strange. Hold a newborn baby upright with its feet touching a
 
 Your heart and your steps are still connected, though. When people run, their heartbeat sometimes falls into step with their stride, beating in time with their feet.
 
-> **The big question**
+> **Did you know?**
 >
-> Here is something that always puzzled me. Small, quick animals like mice and hummingbirds have hearts that race: a mouse’s heart beats about 500 times a minute, while an elephant’s beats about 30. Scientists explain that this is mostly about size: small bodies use up energy faster, so their hearts must pump faster. But I still wonder whether a fast inner rhythm helps a quick animal stay in control of its moves.
+> Small, quick animals have hearts that race. A mouse’s heart beats about 500 times a minute and a cat’s about 150, while an elephant’s beats only about 30. Scientists explain that this is mostly about size: small bodies use up energy faster, so their hearts must pump faster.
 
 ### The robot that learned to walk like us
 
@@ -120,13 +120,13 @@ In the 1980s, a scientist named Marc Raibert built a robot with just one leg. It
 
 Some scientists asked a strange question: how much of walking can a robot do with no computer at all? They built legs with knees and hips, set them at the top of a gentle slope, and gave them a little push. The legs walked all the way down, step after step, with no motor and no brain.
 
-**The trick:** a swinging leg is a pendulum, just like the one in a grandfather clock. If the legs have the right length and weight, gravity swings them at just the right rhythm. Robots built on this idea use very little energy, because the body’s own swing does most of the work. Sound familiar? It is the walking doll’s secret, all grown up.
+**The trick:** a swinging leg is a pendulum, just like the one in a grandfather clock. If the legs have the right length and weight, gravity swings them at just the right rhythm. Robots built on this idea use very little energy, because the body’s own swing does most of the work.
 
 ### The robot with a rhythm in its spine (2007)
 
 In Switzerland, Auke Ijspeert and his team built a robot salamander that could swim in water and then crawl out onto land.
 
-**The trick:** instead of planning every movement, they gave the robot an electronic copy of the central pattern generator from Part 2: a chain of tiny electronic clocks that tick together and pass their rhythm down the body. Turning up one signal changed the rhythm from crawling to swimming.
+**The trick:** instead of planning every movement, they gave the robot an electronic copy of the central pattern generator from Part 2: a chain of electronic rhythm makers, called oscillators, that keep time together and pass their rhythm down the body. Turning up one signal changed the rhythm from crawling to swimming.
 
 ### Learning by falling, millions of times (2010s to today)
 
@@ -152,15 +152,15 @@ Why give robots legs, when wheels are so much simpler? Because our world is buil
 
 Today, building robots is my hobby. I build my own little walking machines with LEGO, and every time one of them wobbles and falls, I think about my sister’s doll.
 
-Modern robots keep their balance with fast computers and electronic clocks that tick billions of times a second. That works amazingly well. But the doll taught me something I never forgot: her whole body moved in time with one heavy, swinging heart. And the smoothest walking machines scientists have built, the ones that swing their legs like pendulums and bounce on springs, use the same kind of physical rhythm.
+Modern robots keep their balance with sensors and fast computers. Their sensors feel which way the body is tilting and how hard each foot presses on the ground, and the computer checks their posture and corrects it hundreds of times every second. That works amazingly well. But the doll taught me something I never forgot: her whole body moved in time with one heavy, swinging heart. And I often think about cats. A cat’s heart beats about twice as fast as yours, and a cat is one of the quickest, smoothest movers on Earth. Scientists say a fast heartbeat is mostly about body size. But I can’t help wondering whether a fast inner rhythm also helps a quick animal stay in control of its moves.
 
-![Three panels: a square-wave electronic clock signal that ticks to coordinate a computer chip; a left-right stepping pattern; and the author's hypothesis, asking whether heartbeat timing could help smooth movement, noting that heart-movement coupling has been observed but a necessary role in smoothness is not established.](/images/pensees/walking-doll/rhythm-question.png)
+![Three panels: a robot's balance loop, where sensors feel the tilt, the computer checks, and the motors correct, repeating hundreds of times every second; a left-right stepping pattern; and my hypothesis, asking whether heartbeat timing could help smooth movement, noting that heart-movement coupling has been observed but a necessary role in smoothness is not established.](/images/pensees/walking-doll/rhythm-question.png)
 
-*Timing is a relationship: a clock, a pattern, and a question.*
+*Timing is a relationship: a balance loop, a pattern, and a question.*
 
 > **The big question**
 >
-> So here is the question I still wonder about. Is an electronic clock enough to make a robot move as smoothly as a cat or a dancer? Or will the walking machines of the future need something like a mechanical heartbeat, a real swinging rhythm at their center, that the whole body can move in time with?
+> So here is the question I still wonder about. Are sensors and quick corrections enough to make a robot move as smoothly as a cat or a dancer? Or will the walking machines of the future need something like a mechanical heartbeat, a real swinging rhythm at their center, that the whole body can move in time with?
 
 I don’t know the answer. Nobody does yet. Maybe you will be the one to find out.
 
