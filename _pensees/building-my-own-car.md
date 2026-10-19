@@ -219,7 +219,7 @@ My fascination with cars didn't end with the wire car. When I was **fourteen yea
 
 This was nothing like the ordinary LEGO bricks and wheels I had played with at nine. It was a much more sophisticated model, filled with mechanisms that worked like those in a real automobile.
 
-![A red LEGO Technic 8865 car with visible mechanical beams, large wheels, and steering and suspension assemblies.](/images/pensees/wire-car/lego-8865.jpg)
+![A red LEGO Technic 8865 car with visible mechanical beams, large wheels, and steering and suspension assemblies.](/images/pensees/wire-car/lego-8865-test-car.jpg)
 
 *My LEGO Technic 8865 Test Car, featuring a V4 engine with moving pistons and a three-speed manual gearbox.*
 
