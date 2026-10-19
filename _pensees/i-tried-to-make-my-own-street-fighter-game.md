@@ -1,6 +1,6 @@
 ---
-title: "I Tried to Make My Own Street Fighter Game"
-subtitle: "A childhood story about learning to make my own games"
+title: "Making My Own Street Fighter Game"
+subtitle: "A childhood story about the game I never finished"
 date: 2026-10-19
 description: "A true story of growing up in Cameroon, falling in love with Street Fighter II, and trying to build a fighting game in Pascal—with no internet, scanner, or programming classes."
 image: /images/pensees/street-fighter/arcade-cameroon.jpg
