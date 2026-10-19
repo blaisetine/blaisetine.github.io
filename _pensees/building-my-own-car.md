@@ -221,7 +221,7 @@ This was nothing like the ordinary LEGO bricks and wheels I had played with at n
 
 ![A red LEGO Technic 8865 car with visible mechanical beams, large wheels, and steering and suspension assemblies.](/images/pensees/wire-car/lego-8865-test-car.jpg)
 
-*My LEGO Technic 8865 Test Car, featuring a V4 engine with moving pistons and a three-speed manual gearbox.*
+*The LEGO Technic 8865 Test Car, with a V4 engine with moving pistons and a three-speed manual gearbox. Photo: [Technicopedia](https://www.technicopedia.com/8865.html).*
 
 It had steering mechanisms that guided the front wheels, suspension that allowed the wheels to move over bumps, and a **three-speed manual gearbox**. It even had a **V4 engine**, with four pistons that moved up and down as the engine turned, and a **differential**, a clever mechanism that allowed the rear wheels to turn at different speeds when going around a corner.
 
