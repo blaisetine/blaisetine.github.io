@@ -78,17 +78,17 @@ There was another problem. I didn't have a scanner, so I couldn't take a drawing
 
 I used squared and lined paper to plan my pictures. A computer image is made of tiny colored squares called **pixels**. By carefully coloring the squares on paper, I could work out where each color needed to go on the screen.
 
-![A surviving color drawing of Blanka on lined paper, with visible individual colored squares.](/images/pensees/street-fighter/blanka-pixel-study.jpg){: style="max-width: 420px"}
-*My hand-colored study of Blanka, built up square by square.*
-
-![A surviving hand-colored study of Fei Long in a fighting stance, with a visible pixel grid.](/images/pensees/street-fighter/fei-long-pixel-study.jpg){: style="max-width: 420px"}
-*Fei Long, another character I studied pixel by pixel.*
+<div class="pensee-pair">
+  <img src="/images/pensees/street-fighter/blanka-pixel-study.jpg" alt="A surviving color drawing of Blanka on lined paper, with visible individual colored squares.">
+  <img src="/images/pensees/street-fighter/fei-long-pixel-study.jpg" alt="A surviving hand-colored study of Fei Long in a fighting stance, with a visible pixel grid.">
+</div>
+<p class="pensee-pair__caption"><em>My hand-colored studies of Blanka (left) and Fei Long (right), built up square by square.</em></p>
 
 Finishing a drawing on paper was only half the job. I then sat at the computer, held the mouse, and drew it **all over again**, coloring the corresponding pixels one at a time. I couldn't just click a button to import my drawings. There was no scanner to do the work for me.
 
 Some of the pictures I've kept are studies of characters and scenes from other games I loved, not necessarily artwork that made it into my own game. I was studying how game artists made recognizable characters out of little colored squares. I was also learning how much time every extra animation frame would cost me.
 
-![An original childhood page mixing fighting-game character sketches, small sprites, and studies of scenes from different games.](/images/pensees/street-fighter/character-and-scene-studies.jpg){: style="max-width: 420px"}
+![An original childhood page mixing fighting-game character sketches, small sprites, and studies of scenes from different games.](/images/pensees/street-fighter/character-and-scene-studies-landscape.jpg)
 *Character ideas, fighting poses, and scenes from games I admired.*
 
 ![An original page of scene and background studies, character drawings, and architectural details.](/images/pensees/street-fighter/background-studies.jpg)

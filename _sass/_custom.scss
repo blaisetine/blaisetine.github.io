@@ -174,3 +174,25 @@
   font-size: 0.85em;
   color: $gray;
 }
+
+/* Pensées: two images side by side, with one caption */
+.pensee-pair {
+  display: flex;
+  gap: 1em;
+  justify-content: center;
+  margin: 0 0 0.5em;
+
+  img {
+    flex: 1 1 0;
+    min-width: 0;
+    max-width: 320px;
+    height: auto;
+    border-radius: 6px;
+  }
+}
+
+.pensee-pair__caption {
+  text-align: center;
+  font-size: 0.85em;
+  color: $gray;
+}
