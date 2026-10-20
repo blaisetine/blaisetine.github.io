@@ -2,7 +2,7 @@
 title: "The Tree of Life"
 subtitle: "How every living thing belongs to one big family"
 date: 2026-10-01
-image: /images/pensees/tree-of-life/galapagos-finches.png
+image: /images/pensees/tree-of-life/galapagos-finches-v2.jpg
 description: "The secret hiding in plain sight, and how life changes: from wolves to poodles, Darwin's finches, DNA, and our family tree."
 ---
 
@@ -29,6 +29,11 @@ Do that for thousands of years, and you get a Chihuahua, a Great Dane, and a flu
 
 People did the same thing with plants. Every year, farmers saved seeds from their best plants: the biggest, the sweetest, the tastiest. Little by little, the plants changed.
 
+<figure class="pensee-float">
+  <img src="/images/pensees/tree-of-life/teosinte-vs-corn-v2.jpg" alt="Wild teosinte, a short thin spike with a few seeds in hard cases (shown enlarged in a circle), next to a modern corn cob in its husk with hundreds of exposed yellow kernels.">
+  <figcaption>Wild teosinte next to the corn we eat today. Farmers changed one into the other, one harvest at a time.</figcaption>
+</figure>
+
 - **Corn** started as a wild grass called teosinte. Its tiny ears had only about a dozen kernels, each one as hard as a pebble. Today one ear of corn has hundreds of soft, sweet kernels.
 
 - **Bananas** in the wild are packed with big, hard seeds. People found a rare banana with almost no seeds and kept growing it. Now we can eat bananas without spitting out seeds.
@@ -36,9 +41,6 @@ People did the same thing with plants. Every year, farmers saved seeds from thei
 - **Seedless grapes** came from one special grapevine with no seeds. Farmers grew new vines from its branches, again and again.
 
 - **One wild plant** called wild cabbage turned into six different vegetables: kale, cabbage, broccoli, cauliflower, Brussels sprouts, and kohlrabi. Farmers just picked different parts to make bigger.
-
-![Size comparison: a teosinte ear is a short strip of about ten kernels, each in a hard case; a modern corn cob is many times longer and wider, with hundreds of kernels in rows.](/images/pensees/tree-of-life/teosinte-vs-corn.png)
-*Wild teosinte next to the corn we eat today. Farmers changed one into the other, one harvest at a time.*
 
 This is called *artificial selection*. “Artificial” means made by people. “Selection” means choosing. People choose which plants and animals get to have babies, and over time the plants and animals change.
 
@@ -58,8 +60,8 @@ In South America, he dug up fossils of giant animals that no longer existed, lik
 
 Then the ship reached the Galápagos Islands, far out in the Pacific Ocean. The giant tortoises there had different shell shapes on different islands. And there were lots of little brown birds called finches. They all looked like cousins, but their beaks were different. Each beak fit the food that bird ate.
 
-![Four Galápagos finches compared. The large ground finch has a thick, deep beak for cracking hard seeds. The cactus finch has a long, pointed beak for reaching into cactus flowers. The warbler finch has a thin, sharp beak for picking up small insects. The woodpecker finch holds a cactus spine in its beak to pull insects out of tree bark.](/images/pensees/tree-of-life/galapagos-finches.png)
-*Four of the Galápagos finches. They come from the same ancestor, but each beak became a tool for a different food. (Simplified drawings, not to scale.)*
+![Four Galápagos finches compared. The large ground finch cracks a hard seed with its deep beak. The common cactus finch reaches into a cactus flower with its long beak. The green warbler finch picks a tiny insect off a leaf with its fine beak. The woodpecker finch holds a small stick in its beak to pull an insect out of tree bark.](/images/pensees/tree-of-life/galapagos-finches-v2.jpg)
+*Four of the Galápagos finches. They come from the same ancestor, but each beak became a tool for a different food.*
 
 ### The big idea
 
