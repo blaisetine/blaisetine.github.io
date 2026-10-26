@@ -38,9 +38,9 @@ When the motor ran, the arm swung the heavy disk to the left, then to the right,
 
 When the weight swung to the left, the doll leaned onto her left leg, and her right leg lifted off the floor and swung forward. When the weight swung to the right, she leaned onto her right leg, and her left leg stepped forward. Left, right, left, right. The doll never had to think about balance. The heavy disk did it for her.
 
-![Rear view of the doll in two poses. Left: the disk and its arm swing to the doll's left, the left leg supports her and the right leg swings forward. Right: the disk swings to her right, the right leg supports her and the left leg advances. A blue loop shows the belt; the arm swings around a lower pivot.](/images/pensees/walking-doll/doll-mechanism.png)
+![The doll seen from behind in two mirrored poses. Left: the heavy disk swings to the left, the body leans left onto the left leg, and the right foot lifts off the floor. Right: the disk swings to the right, the body leans right onto the right leg, and the left foot lifts. A blue belt loops from the disk down to a pivot at the bottom of the swinging arm.](/images/pensees/walking-doll/doll-trick.jpg)
 
-*The doll’s trick: shift the weight, lift the other leg, repeat.*
+*The doll’s trick, seen from behind: shift the weight, lift the other leg, repeat.*
 
 ### The doll’s heartbeat
 
@@ -70,11 +70,11 @@ Most babies take about a year to learn to walk. First they roll, then they crawl
 
 Here is the surprising truth: every time you take a step, you are falling. You lean forward, your body starts to tip over, and just in time, you swing a foot out in front of you and catch yourself. Then you do it again. And again. Walking is a long chain of falls that you catch before they happen.
 
+[![Five panels of a boy walking, seen from the side. 1, Stand tall: upright and balanced. 2, Tip forward: he leans forward from his ankles. 3, Catch yourself: his front foot lands and stops the fall. 4, Push off: his back foot pushes against the ground. 5, Next step: the other leg swings through.](/images/pensees/walking-doll/one-step.jpg)](/images/pensees/walking-doll/one-step.jpg){: .pensee-zoom}
+
+*A step, slowed down: tip forward, catch yourself, push off, and do it again.*
+
 To understand this, you need to know about your *center of gravity*. It is the balance point of your body, the spot where all your weight seems to be gathered, somewhere around your belly button. As long as your center of gravity stays above your feet, you stay up. When it moves past your feet, you start to fall.
-
-![A walking figure seen from the side, with a dot at its center of mass, a red arrow for gravity pulling down, and a green arrow for the ground pushing up through the supporting foot.](/images/pensees/walking-doll/walking-forces.png)
-
-*A step, slowed down: gravity pulls your center of mass down, and the ground pushes back up through the foot you are standing on.*
 
 > **Try the doll trick.** Stand with your right side pressed against a wall, with your right foot touching the wall. Now try to lift your left foot off the floor. You can’t! To stand on one foot, you have to shift your weight over that foot first, and the wall is in the way. That is exactly what the doll’s heavy disk did: it shifted her weight over one foot so the other one could lift.
 
