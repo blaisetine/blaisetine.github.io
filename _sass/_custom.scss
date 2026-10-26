@@ -161,14 +161,16 @@
 }
 
 /* Pensées: figures with the caption underneath */
-.pensee p > img {
+.pensee p > img,
+.pensee p > a.pensee-zoom > img {
   display: block;
   max-width: 100%;
   margin: 0 auto 0.5em;
   border-radius: 6px;
 }
 
-.pensee p > img + em {
+.pensee p > img + em,
+.pensee p > a.pensee-zoom + em {
   display: block;
   text-align: center;
   font-size: 0.85em;
