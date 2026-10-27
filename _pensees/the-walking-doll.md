@@ -38,7 +38,7 @@ When the motor ran, the arm swung the heavy disk to the left, then to the right,
 
 When the weight swung to the left, the doll leaned onto her left leg, and her right leg lifted off the floor and swung forward. When the weight swung to the right, she leaned onto her right leg, and her left leg stepped forward. Left, right, left, right. The doll never had to think about balance. The heavy disk did it for her.
 
-![The doll seen from behind in two mirrored poses. Left: the heavy disk swings to the left, the body leans left onto the left leg, and the right foot lifts off the floor. Right: the disk swings to the right, the body leans right onto the right leg, and the left foot lifts. A blue belt loops from the disk down to a pivot at the bottom of the swinging arm.](/images/pensees/walking-doll/doll-trick.jpg)
+![The doll seen from behind in two mirrored poses. Left: the heavy disk swings to the left, the body leans left onto the left leg, and the right foot is free to step forward. Right: the disk swings to the right, the body leans right onto the right leg, and the left foot is free to step forward. A blue belt loops from the disk down to a pivot at the bottom of the swinging arm.](/images/pensees/walking-doll/doll-trick-v2.jpg)
 
 *The doll’s trick, seen from behind: shift the weight, lift the other leg, repeat.*
 
