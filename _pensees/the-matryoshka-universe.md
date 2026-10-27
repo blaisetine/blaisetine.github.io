@@ -97,6 +97,11 @@ Protons and neutrons contain even smaller particles known as **quarks**. Scienti
 
 Here the matryoshka analogy reaches one of its limits. A cell contains DNA, and DNA is *made from* atoms, but those are different relationships. Nature is not always a sequence of little containers. Our illustrations trace **levels of structure and scale**, rather than literal dolls sitting inside one another.
 
+Let's see the entire journey together. The nesting dolls bring the large and small worlds into one picture, from the universe and its galaxies to living organisms, cells, molecules, and atoms.
+
+![Nested colored ovals, each inside the next, with a Russian nesting doll under each label, growing in size. From smallest to largest: atom, molecule, cell, organism, planet, solar system, galaxy, universe.](/images/pensees/matryoshka/matryoshka-universe.jpg)
+*The Matryoshka Universe: eight levels of organization, connected by the nesting-doll analogy. Some levels are containers; others are structures made from smaller components.*
+
 Still, this journey has revealed something remarkable. The atoms in your fingertip are far older than your cells. Most of them are even older than Earth itself.
 
 To understand why, we need to stop zooming inward and begin traveling backward through time.
