@@ -12,3 +12,6 @@
 {% endcase %}
 
 {% endif %}
+{% if site.analytics.umami.website_id and page.analytics != false %}
+  {% include /analytics-providers/umami.html %}
+{% endif %}

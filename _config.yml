@@ -78,6 +78,8 @@ analytics:
     tracking_id          :
   goatcounter:
     code                 : "blaisetine" # dashboard: https://blaisetine.goatcounter.com
+  umami:
+    website_id           : "14782988-b262-4a33-9ac0-202308556401" # runs alongside the provider above; dashboard: https://cloud.umami.is
 
 
 # Site Author
