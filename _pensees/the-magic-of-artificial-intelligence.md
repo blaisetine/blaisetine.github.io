@@ -2,7 +2,7 @@
 title: "The Magic of Artificial Intelligence"
 subtitle: "The secret is in the roads"
 date: 2026-09-28
-image: /images/pensees/ai/village-after.jpg
+image: /images/pensees/ai/briar-glen-after.jpg
 description: "How a brain learns, how a machine learns, and how to keep your own brain in charge."
 ---
 
@@ -20,7 +20,7 @@ Two rabbits watch the sky from hills above the village. Mina watches for rain. H
 
 Mina has the old rain road. Echo does not. From Echo's hill, only faint trails disappear into the grass.
 
-![Panel A, Before learning: a green valley dotted with round burrow houses and crossed by many faint dirt trails. On the left, Echo the brown rabbit sits on the higher hill and Mina the white rabbit on the lower one. A wide trail labeled "Old rain road" runs from Mina's hill to the carrot bank on the right, where two guard rabbits stand beside a pile of carrots under a green cover.](/images/pensees/ai/village-before.jpg)
+![Briar Glen on a sunny day: a green valley with round burrow houses, a garden, and a stream crossed by a stone bridge. On the left, Echo the brown rabbit sits on a high rocky hill and Mina the white rabbit on a lower one. A wide dirt road runs from Mina's hill, over the bridge, to the carrot bank on the right, where two guard rabbits stand beside crates of carrots under a rolled-up green cover. From Echo's hill, only faint trails wind down through the grass.](/images/pensees/ai/briar-glen-before.jpg)
 *Before learning: the old rain road leads from Mina's hill to the carrot bank. From Echo's hill, only faint trails.*
 
 ### Thunder
@@ -45,8 +45,8 @@ She sends her messengers toward the carrot bank, but the journey is still diffic
 
 The pattern repeats over the following storms. Thunder comes first, Echo sends her messengers, and rain follows soon afterward.
 
-![Three panels. B, Thunder: lightning over the valley; Echo's messengers scatter along many faint trails, and only a few reach the carrot bank, labeled "Not enough." C, Rain: heavy rain; Mina's messengers run in a line down the old rain road to the carrot bank, labeled "Enough." D, Repeated storms: lightning again; Echo's messengers follow one trail that is becoming a road toward the carrot bank, labeled "Path gets worn."](/images/pensees/ai/village-storms.jpg)
-*B: After thunder, Echo's messengers set off, but not enough reach the carrot bank. C: When rain begins, Mina's messengers race down the old rain road, and enough arrive. D: Storm after storm, the trail from Echo's hill gets worn.*
+![The same valley in a storm, with lightning and pouring rain. Two of Echo's brown messengers are still partway down the trail from her hill when the rain has already started. Mina's white messenger races along the wet old rain road and reaches the carrot bank, where the guards pull the green cover over the carrots.](/images/pensees/ai/briar-glen-middle.jpg)
+*Thunder comes first, and Echo sends her messengers, but the trail is still hard to travel and they do not arrive in time. Then the rain starts, and Mina sends her messengers down the old rain road to warn the guards.*
 
 ### Running changes the ground
 
@@ -62,8 +62,8 @@ But Mina has not sent a single messenger. It is not raining yet.
 
 A few minutes later, the first drops fall. The carrots are already safe.
 
-![Panel E, After learning: the same valley, houses, and old rain road as in panel A, but now a wider trail runs from Echo's hill down through the village and joins the old rain road to the carrot bank.](/images/pensees/ai/village-after.jpg)
-*After many storms: the trail from Echo's hill has grown wider and joins the old rain road to the carrot bank. Compare it with the first picture.*
+![The same valley under dark clouds, with lightning but no rain yet. The trail from Echo's hill is now a clear, worn path that joins the old rain road. Echo's messengers run down it one behind the other, Mina sits quietly on her hill, and the guards pull the cover over the carrots.](/images/pensees/ai/briar-glen-after.jpg)
+*After many storms: the trail from Echo's hill has become a worn path that joins the old rain road. Thunder alone now brings enough warnings, and the carrots are covered before the rain. Compare it with the first picture.*
 
 ### Nobody taught the village
 
