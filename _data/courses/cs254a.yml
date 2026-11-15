@@ -1,0 +1,40 @@
+# One entry per week of the quarter. `out` lists what is released that week.
+# Dates, slides, and announcements for the current offering are in BruinLearn.
+- week: 1
+  topic: GPU Architecture and Performance Fundamentals
+  out: [HW1, Lab 1, Paper 1]
+- week: 2
+  topic: GPU Execution, Synchronization, and Memory Models
+  out: [HW2]
+- week: 3
+  topic: GPU Instruction Set Architectures
+  out: [HW3, Lab 2, Paper 2]
+  milestone: Project selection
+- week: 4
+  topic: GPU Core Microarchitecture
+  out: [HW4]
+- week: 5
+  topic: Control Divergence, Reconvergence, and Warp Scheduling
+  out: [HW5, Paper 3]
+- week: 6
+  topic: GPU Memory Systems and Data Movement
+  out: [Lab 3]
+  exam: Midterm (in class)
+- week: 7
+  topic: GPU Scaling, Interconnects, Chiplets, and Resource Management
+  out: [Paper 4]
+  milestone: Project checkpoint; paper presentations begin
+- week: 8
+  topic: AI and Tensor-Core Microarchitectures
+  milestone: Paper presentations
+- week: 9
+  topic: Graphics and Ray-Tracing Microarchitectures
+  out: [Paper 5]
+  milestone: Paper presentations
+- week: 10
+  topic: Emerging GPU Architectures and Research Directions
+  milestone: Paper presentations
+- week: Finals
+  topic: Final project presentations
+  exam: Project presentations (final exam slot)
+  milestone: Project report

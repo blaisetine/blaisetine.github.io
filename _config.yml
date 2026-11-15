@@ -205,6 +205,30 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # course pages (cs254a)
+  - scope:
+      path: "_pages/cs254a"
+      type: pages
+    values:
+      author_profile: false
+      sidebar:
+        nav: "cs254a"
+  # course pages (cs259)
+  - scope:
+      path: "_pages/cs259"
+      type: pages
+    values:
+      author_profile: false
+      sidebar:
+        nav: "cs259"
+  # course pages (m151b)
+  - scope:
+      path: "_pages/m151b"
+      type: pages
+    values:
+      author_profile: false
+      sidebar:
+        nav: "m151b"
   # _teaching
   - scope:
       path: ""

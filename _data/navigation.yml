@@ -23,3 +23,44 @@ main:
 
   - title: "Pensées"
     url: /pensees/
+
+# course sidebars
+cs254a:
+  - title: "CS 254A"
+    children:
+      - title: "Overview"
+        url: /cs254a/
+      - title: "Syllabus"
+        url: /cs254a/syllabus/
+      - title: "Schedule"
+        url: /cs254a/schedule/
+      - title: "Assignments"
+        url: /cs254a/assignments/
+      - title: "Resources"
+        url: /cs254a/resources/
+
+cs259:
+  - title: "CS 259"
+    children:
+      - title: "Overview"
+        url: /cs259/
+      - title: "Syllabus"
+        url: /cs259/syllabus/
+      - title: "Schedule"
+        url: /cs259/schedule/
+      - title: "Assignments"
+        url: /cs259/assignments/
+      - title: "Resources"
+        url: /cs259/resources/
+
+m151b:
+  - title: "CS M151B"
+    children:
+      - title: "Overview"
+        url: /m151b/
+      - title: "Syllabus"
+        url: /m151b/syllabus/
+      - title: "Assignments"
+        url: /m151b/assignments/
+      - title: "Resources"
+        url: /m151b/resources/

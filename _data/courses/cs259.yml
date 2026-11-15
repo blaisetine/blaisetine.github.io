@@ -1,0 +1,35 @@
+# One entry per week of the quarter. `out` lists what is released that week.
+# Dates, slides, and announcements for the current offering are in BruinLearn.
+- week: 1
+  topic: Overview and Verilog Review
+  out: [Lab 1]
+- week: 2
+  topic: GPU Programming and Execution Model
+  out: [Paper 1]
+- week: 3
+  topic: GPU Microarchitecture
+- week: 4
+  topic: Foundations of Computer Graphics
+  out: [Lab 2, Paper 2]
+- week: 5
+  topic: GPU Graphics Pipeline Deep Dive
+  milestone: Project proposal
+- week: 6
+  topic: Ray Tracing Hardware Acceleration
+  out: [Paper 3]
+- week: 7
+  topic: Introduction to Neural Rendering
+  out: [Lab 3]
+- week: 8
+  topic: Neural Rendering Hardware Acceleration
+  out: [Paper 4]
+  milestone: Project checkpoint
+- week: 9
+  topic: "Special Topic: Sparsity and Compression"
+- week: 10
+  topic: "Special Topic: Systems Integration and Future Trends"
+  out: [Paper 5]
+- week: Finals
+  topic: Final project presentations
+  exam: Final presentations
+  milestone: Final report (4-page paper)

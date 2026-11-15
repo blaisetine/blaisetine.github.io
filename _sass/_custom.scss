@@ -228,3 +228,89 @@
 .pensee h3 {
   clear: both;
 }
+
+/* Course pages (/cs254a/, /cs259/, /m151b/) */
+.course-banner {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 0 0.75em;
+  border-radius: 6px;
+}
+
+.page__content .course-caption {
+  margin: 0 0 1.5em;
+  text-align: center;
+  font-size: $type-size-6;
+  color: $gray;
+}
+
+.page__content .course-facts {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.35em 1.2em;
+  margin: 0 0 1em;
+
+  dt, dd {
+    margin: 0;
+    font-size: $type-size-5;
+    line-height: 1.5;
+  }
+  dt { font-weight: bold; }
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+    gap: 0;
+    dd { margin-bottom: 0.6em; }
+  }
+}
+
+.course-table {
+  th, td { vertical-align: top; }
+  .num { text-align: right; white-space: nowrap; }
+  tr.course-exam td { background: #fff6e5; }
+}
+
+.course-table-scroll { overflow-x: auto; }
+
+.course-tag {
+  display: inline-block;
+  margin: 1px 2px 1px 0;
+  padding: 1px 7px;
+  border-radius: 10px;
+  background: #e6eef6;
+  color: #1d5a87;
+  font-size: 0.85em;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.course-tag--exam {
+  background: #fde7c3;
+  color: #7a4a00;
+}
+
+/* On phones, schedule rows become cards */
+@media (max-width: 600px) {
+  table.course-schedule { border: 0; }
+  table.course-schedule thead { display: none; }
+  table.course-schedule,
+  table.course-schedule tbody,
+  table.course-schedule tr,
+  table.course-schedule td { display: block; width: 100%; }
+  table.course-schedule tr {
+    margin-bottom: 0.75em;
+    padding: 0.3em 0;
+    border: 1px solid $light-gray;
+    border-radius: 6px;
+  }
+  table.course-schedule td { border: 0; padding: 0.15em 0.75em; }
+  table.course-schedule td:empty { display: none; }
+  table.course-schedule td::before {
+    content: attr(data-label);
+    display: inline-block;
+    min-width: 6.5em;
+    color: $gray;
+    font-weight: bold;
+  }
+}

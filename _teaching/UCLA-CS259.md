@@ -5,6 +5,7 @@ type: "Graduate course"
 venue: "University of California, Los Angeles"
 date: 2026-03-30
 location: "Los Angeles, CA"
+pageurl: "https://blaisetine.github.io/cs259/"
 ---
 
 Taught in the spring quarter.
