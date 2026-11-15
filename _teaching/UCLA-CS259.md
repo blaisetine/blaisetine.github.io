@@ -8,4 +8,4 @@ location: "Los Angeles, CA"
 pageurl: "https://blaisetine.github.io/cs259/"
 ---
 
-Taught in the spring quarter.
+Taught in the spring quarter. The course follows the rendering stack down into GPU hardware: the graphics pipeline (rasterization, texture sampling, and pixel shading), ray-tracing hardware, and neural rendering, including deep-learning super sampling and neural scene representations, and how tensor units, sparsity, and compression make them faster. Students build these ideas on Vortex, a full-stack open-source GPU they can read, modify, and measure end to end.
