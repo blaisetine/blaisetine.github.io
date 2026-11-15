@@ -1,6 +1,6 @@
 ---
 title: "CS 254A Assignments"
-permalink: /cs254a/assignments/
+permalink: /teaching/cs254a/assignments/
 ---
 
 ## First assignment: introduce yourself

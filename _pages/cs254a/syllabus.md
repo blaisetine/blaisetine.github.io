@@ -1,6 +1,6 @@
 ---
 title: "CS 254A Syllabus"
-permalink: /cs254a/syllabus/
+permalink: /teaching/cs254a/syllabus/
 ---
 
 ## Topics
@@ -18,7 +18,7 @@ permalink: /cs254a/syllabus/
 | 9 | Graphics and Ray-Tracing Microarchitectures |
 | 10 | Emerging GPU Architectures and Research Directions |
 
-See the [Schedule]({{ '/cs254a/schedule/' | relative_url }}) for releases and milestones by week.
+See the [Schedule]({{ '/teaching/cs254a/schedule/' | relative_url }}) for releases and milestones by week.
 
 ## Grading
 

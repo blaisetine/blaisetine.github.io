@@ -29,38 +29,38 @@ cs254a:
   - title: "CS 254A"
     children:
       - title: "Overview"
-        url: /cs254a/
+        url: /teaching/cs254a/
       - title: "Syllabus"
-        url: /cs254a/syllabus/
+        url: /teaching/cs254a/syllabus/
       - title: "Schedule"
-        url: /cs254a/schedule/
+        url: /teaching/cs254a/schedule/
       - title: "Assignments"
-        url: /cs254a/assignments/
+        url: /teaching/cs254a/assignments/
       - title: "Resources"
-        url: /cs254a/resources/
+        url: /teaching/cs254a/resources/
 
 cs259:
   - title: "CS 259"
     children:
       - title: "Overview"
-        url: /cs259/
+        url: /teaching/cs259/
       - title: "Syllabus"
-        url: /cs259/syllabus/
+        url: /teaching/cs259/syllabus/
       - title: "Schedule"
-        url: /cs259/schedule/
+        url: /teaching/cs259/schedule/
       - title: "Assignments"
-        url: /cs259/assignments/
+        url: /teaching/cs259/assignments/
       - title: "Resources"
-        url: /cs259/resources/
+        url: /teaching/cs259/resources/
 
 m151b:
   - title: "CS M151B"
     children:
       - title: "Overview"
-        url: /m151b/
+        url: /teaching/m151b/
       - title: "Syllabus"
-        url: /m151b/syllabus/
+        url: /teaching/m151b/syllabus/
       - title: "Assignments"
-        url: /m151b/assignments/
+        url: /teaching/m151b/assignments/
       - title: "Resources"
-        url: /m151b/resources/
+        url: /teaching/m151b/resources/

@@ -1,6 +1,6 @@
 ---
 title: "CS M151B Resources"
-permalink: /m151b/resources/
+permalink: /teaching/m151b/resources/
 ---
 
 ## Textbook

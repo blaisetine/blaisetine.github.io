@@ -1,6 +1,6 @@
 ---
 title: "CS 254A: GPU Microarchitecture"
-permalink: /cs254a/
+permalink: /teaching/cs254a/
 ---
 
 <img class="course-banner" src="{{ '/images/teaching/cs254a/gpu-architecture.jpg' | relative_url }}" alt="A workload is compiled into a kernel that runs across many GPU streaming multiprocessors, each with tensor cores and ray-tracing units, backed by high-bandwidth memory (HBM).">
@@ -18,7 +18,7 @@ You will study these ideas hands-on with Vortex, which includes synthesizable RT
   <dt>Current offering</dt>
   <dd>Lecture times, office hours, exam dates, and the discussion forum are posted in BruinLearn each term.</dd>
   <dt>Syllabus</dt>
-  <dd><a href="{{ '/cs254a/syllabus/' | relative_url }}">On this site</a> and in BruinLearn</dd>
+  <dd><a href="{{ '/teaching/cs254a/syllabus/' | relative_url }}">On this site</a> and in BruinLearn</dd>
 </dl>
 
 ## What you will learn

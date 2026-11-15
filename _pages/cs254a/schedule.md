@@ -1,6 +1,6 @@
 ---
 title: "CS 254A Schedule"
-permalink: /cs254a/schedule/
+permalink: /teaching/cs254a/schedule/
 ---
 
 The week-by-week plan for the course. Dates, slides, and announcements for the current offering are posted in BruinLearn.
@@ -23,4 +23,4 @@ The week-by-week plan for the course. Dates, slides, and announcements for the c
 </table>
 </div>
 
-Labs run for two weeks. Paper critiques are due one week after release. See [Assignments]({{ '/cs254a/assignments/' | relative_url }}) for details.
+Labs run for two weeks. Paper critiques are due one week after release. See [Assignments]({{ '/teaching/cs254a/assignments/' | relative_url }}) for details.

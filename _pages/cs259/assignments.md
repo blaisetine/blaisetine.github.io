@@ -1,6 +1,6 @@
 ---
 title: "CS 259 Assignments"
-permalink: /cs259/assignments/
+permalink: /teaching/cs259/assignments/
 ---
 
 ## First assignment: introduce yourself

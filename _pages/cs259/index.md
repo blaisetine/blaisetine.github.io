@@ -1,6 +1,6 @@
 ---
 title: "CS 259: Architecture and Systems for Neural Rendering"
-permalink: /cs259/
+permalink: /teaching/cs259/
 ---
 
 <img class="course-banner" src="{{ '/images/teaching/cs259/neural-rendering.jpg' | relative_url }}" alt="A 3D scene is encoded as a neural representation (an MLP neural field or 3D Gaussians), rendered on the GPU by ray marching or splatting on streaming multiprocessors, tensor cores, and HBM, and produces the final image.">
@@ -18,7 +18,7 @@ You will build these ideas hands-on with Vortex, which includes synthesizable RT
   <dt>Current offering</dt>
   <dd>Lecture times, office hours, deadlines, and the discussion forum are posted in BruinLearn each term.</dd>
   <dt>Syllabus</dt>
-  <dd><a href="{{ '/cs259/syllabus/' | relative_url }}">On this site</a> and in BruinLearn</dd>
+  <dd><a href="{{ '/teaching/cs259/syllabus/' | relative_url }}">On this site</a> and in BruinLearn</dd>
 </dl>
 
 ## What you will learn

@@ -1,6 +1,6 @@
 ---
 title: "CS 259 Syllabus"
-permalink: /cs259/syllabus/
+permalink: /teaching/cs259/syllabus/
 ---
 
 ## Topics
@@ -18,7 +18,7 @@ permalink: /cs259/syllabus/
 | 9 | Special Topic: Sparsity and Compression |
 | 10 | Special Topic: Systems Integration and Future Trends |
 
-See the [Schedule]({{ '/cs259/schedule/' | relative_url }}) for releases and milestones by week.
+See the [Schedule]({{ '/teaching/cs259/schedule/' | relative_url }}) for releases and milestones by week.
 
 ## Grading
 

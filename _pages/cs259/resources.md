@@ -1,6 +1,6 @@
 ---
 title: "CS 259 Resources"
-permalink: /cs259/resources/
+permalink: /teaching/cs259/resources/
 ---
 
 ## Vortex GPU

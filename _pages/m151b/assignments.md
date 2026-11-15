@@ -1,6 +1,6 @@
 ---
 title: "CS M151B Assignments"
-permalink: /m151b/assignments/
+permalink: /teaching/m151b/assignments/
 ---
 
 ## First assignment: tell us about you

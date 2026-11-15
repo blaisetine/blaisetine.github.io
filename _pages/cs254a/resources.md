@@ -1,6 +1,6 @@
 ---
 title: "CS 254A Resources"
-permalink: /cs254a/resources/
+permalink: /teaching/cs254a/resources/
 ---
 
 ## Vortex GPU

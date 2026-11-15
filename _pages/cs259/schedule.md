@@ -1,6 +1,6 @@
 ---
 title: "CS 259 Schedule"
-permalink: /cs259/schedule/
+permalink: /teaching/cs259/schedule/
 ---
 
 The week-by-week plan for the course. Dates, slides, and announcements for the current offering are posted in BruinLearn.
@@ -23,4 +23,4 @@ The week-by-week plan for the course. Dates, slides, and announcements for the c
 </table>
 </div>
 
-Labs run for two weeks. Paper critiques are due one week after release. See [Assignments]({{ '/cs259/assignments/' | relative_url }}) for details.
+Labs run for two weeks. Paper critiques are due one week after release. See [Assignments]({{ '/teaching/cs259/assignments/' | relative_url }}) for details.

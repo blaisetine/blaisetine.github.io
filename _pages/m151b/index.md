@@ -1,6 +1,6 @@
 ---
 title: "CS M151B: Computer Systems Architecture"
-permalink: /m151b/
+permalink: /teaching/m151b/
 ---
 
 <img class="course-banner" src="{{ '/images/teaching/m151b/banner.jpg' | relative_url }}" alt="A magnifying glass held over a processor chip on a circuit board.">
@@ -17,7 +17,7 @@ We cover instruction set design, pipelining and hazards, branch prediction, supe
   <dt>Current offering</dt>
   <dd>Lecture times, office hours, TAs, exam dates, and the discussion forum are posted in BruinLearn each term.</dd>
   <dt>Syllabus</dt>
-  <dd><a href="{{ '/m151b/syllabus/' | relative_url }}">On this site</a> and in BruinLearn</dd>
+  <dd><a href="{{ '/teaching/m151b/syllabus/' | relative_url }}">On this site</a> and in BruinLearn</dd>
 </dl>
 
 ## What you will learn

@@ -1,6 +1,6 @@
 ---
 title: "CS M151B Syllabus"
-permalink: /m151b/syllabus/
+permalink: /teaching/m151b/syllabus/
 ---
 
 ## Topics
