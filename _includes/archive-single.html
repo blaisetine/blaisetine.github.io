@@ -27,7 +27,11 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
+      {% if post.collection == 'teaching' and post.pageurl %}
+        <a href="{{ post.pageurl }}">{{ title }}</a>
+      {% elsif post.collection == 'teaching' %}
+        {{ title }}
+      {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
@@ -39,7 +43,7 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p> {{ post.type }}, <i>{{ post.venue }}</i>{% if post.years %}, {{ post.years }}{% elsif post.show_year != false %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %} </p>
         {% elsif post.collection == 'publications' %}
           <p>Authors: {{ post.authors }}</p>
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
@@ -61,7 +65,7 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
-    {% if post.pageurl %}
+    {% if post.pageurl and post.collection != 'teaching' %}
       <p>Website <a href=" {{ post.pageurl }} "><u>{{ post.pageurl }}</u></a></p>
     {% endif %}
 
