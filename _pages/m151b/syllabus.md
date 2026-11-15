@@ -24,10 +24,10 @@ permalink: /teaching/m151b/syllabus/
   <tbody>
     <tr><td>Homework</td><td class="num">20%</td><td>10 multiple-choice assignments, 2 points each</td></tr>
     <tr><td>Projects</td><td class="num">35%</td><td>3 CPU pipeline projects: 10 + 10 + 15 points</td></tr>
-    <tr><td>Midterm exam</td><td class="num">20%</td><td>In class, on a computer</td></tr>
-    <tr><td>Final exam</td><td class="num">20%</td><td>In class, on a computer</td></tr>
-    <tr><td>Attendance</td><td class="num">5%</td><td>QR-code check-in; attend at least 70% of lectures</td></tr>
-    <tr><td>Participation</td><td class="num">bonus</td><td>2 points for in-class participation or a top-10 contribution on the course forum</td></tr>
+    <tr><td>Midterm exam</td><td class="num">20%</td><td>In class, open book</td></tr>
+    <tr><td>Final exam</td><td class="num">20%</td><td>In class, open book</td></tr>
+    <tr><td>Attendance</td><td class="num">5%</td><td>QR-code check-in; you may miss 3 lectures</td></tr>
+    <tr><td>Participation</td><td class="num">bonus</td><td>Up to 2 points: in class (the "BONUS" keyword) and on the course forum</td></tr>
   </tbody>
 </table>
 
@@ -35,7 +35,7 @@ Letter grades: **A** for 90 and above, **B** for 80 and above, **C** for 70 and 
 
 ## Exams
 
-Both exams are taken in class on a computer. A review session is offered before each exam.
+Both exams are taken in class. They are open book and test your understanding of the material rather than memorization.
 
 ## Policies
 
@@ -49,4 +49,4 @@ Submissions with a wrong file name or missing files lose 5%.
 Request a regrade within one week of receiving your grade, with a written justification. A regrade request may lead to a full regrade of the assignment.
 
 ### Collaboration
-Homework is individual work. Projects may be done in teams of two or alone; each partner submits separately, and partners must submit the same work.
+Homework is individual work. Projects may be done alone or with one partner; each partner submits separately, and partners must submit the same work.

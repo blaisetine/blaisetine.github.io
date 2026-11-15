@@ -24,7 +24,7 @@ Through the labs, you learn to:
 
 ## Homework (10%)
 
-Five homework assignments, released weekly in weeks 1 to 5. They are also the best preparation for the midterm.
+Five homework assignments, released weekly in weeks 1 to 5.
 
 ## Paper critiques (10%)
 
@@ -44,7 +44,7 @@ Choose a topic from the provided list or propose your own. Teams of one to three
 <table class="course-table">
   <thead><tr><th>Milestone</th><th>When</th><th class="num">Weight</th></tr></thead>
   <tbody>
-    <tr><td>Project selection</td><td>Week 3</td><td class="num">–</td></tr>
+    <tr><td>Project proposal</td><td>Week 3</td><td class="num">–</td></tr>
     <tr><td>Checkpoint</td><td>Week 7</td><td class="num">5%</td></tr>
     <tr><td>Presentation</td><td>Final exam slot</td><td class="num">10%</td></tr>
     <tr><td>Report</td><td>End of quarter</td><td class="num">5%</td></tr>

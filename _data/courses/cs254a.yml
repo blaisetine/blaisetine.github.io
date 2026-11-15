@@ -9,7 +9,7 @@
 - week: 3
   topic: GPU Instruction Set Architectures
   out: [HW3, Lab 2, Paper 2]
-  milestone: Project selection
+  milestone: Project proposal
 - week: 4
   topic: GPU Core Microarchitecture
   out: [HW4]

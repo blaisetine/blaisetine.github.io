@@ -2,34 +2,40 @@
 # Dates, slides, and announcements for the current offering are in BruinLearn.
 - week: 1
   topic: Overview and Verilog Review
-  out: [Lab 1]
+  out: [HW1, Lab 1]
 - week: 2
   topic: GPU Programming and Execution Model
-  out: [Paper 1]
+  out: [HW2, Paper 1]
 - week: 3
   topic: GPU Microarchitecture
+  out: [HW3]
 - week: 4
   topic: Foundations of Computer Graphics
-  out: [Lab 2, Paper 2]
+  out: [HW4, Lab 2, Paper 2]
 - week: 5
   topic: GPU Graphics Pipeline Deep Dive
+  out: [HW5]
   milestone: Project proposal
 - week: 6
   topic: Ray Tracing Hardware Acceleration
   out: [Paper 3]
+  exam: Midterm (in class)
 - week: 7
   topic: Introduction to Neural Rendering
   out: [Lab 3]
+  milestone: Paper presentations begin
 - week: 8
   topic: Neural Rendering Hardware Acceleration
   out: [Paper 4]
-  milestone: Project checkpoint
+  milestone: Project checkpoint; paper presentations
 - week: 9
   topic: "Special Topic: Sparsity and Compression"
+  milestone: Paper presentations
 - week: 10
   topic: "Special Topic: Systems Integration and Future Trends"
   out: [Paper 5]
+  milestone: Paper presentations
 - week: Finals
   topic: Final project presentations
-  exam: Final presentations
-  milestone: Final report (4-page paper)
+  exam: Project presentations (final exam slot)
+  milestone: Project report (4-page paper)

@@ -16,7 +16,7 @@ You will build these ideas hands-on with Vortex, which includes synthesizable RT
   <dt>Instructor</dt>
   <dd><a href="{{ '/' | relative_url }}">Blaise-Pascal Tine</a> · blaisetine [at] cs.ucla.edu</dd>
   <dt>Current offering</dt>
-  <dd>Lecture times, office hours, deadlines, and the discussion forum are posted in BruinLearn each term.</dd>
+  <dd>Lecture times, office hours, exam dates, and the discussion forum are posted in BruinLearn each term.</dd>
   <dt>Syllabus</dt>
   <dd><a href="{{ '/teaching/cs259/syllabus/' | relative_url }}">On this site</a> and in BruinLearn</dd>
 </dl>
@@ -28,6 +28,10 @@ You will build these ideas hands-on with Vortex, which includes synthesizable RT
 - **Graphics pipeline microarchitecture:** rasterization, interpolation, texture sampling, and pixel shading.
 - **Ray-tracing and tensor-unit microarchitecture.**
 - **Accelerating neural graphics:** deep-learning super sampling and neural rendering on GPUs.
+
+## Prerequisites
+
+Background in computer architecture and hardware design is strongly recommended. If you need a PTE number to enroll, email the instructor; priority goes to students with hardware design and computer architecture background.
 
 ## Textbooks
 

@@ -5,7 +5,12 @@ permalink: /teaching/cs259/resources/
 
 ## Vortex GPU
 
-[Vortex](https://github.com/vortexgpgpu/vortex) is a full-stack open-source GPU used for the labs and projects. It includes synthesizable RTL, a cycle-level simulator, a kernel compiler and runtime, and a host driver and runtime.
+[Vortex](https://github.com/vortexgpgpu/vortex) is a full-stack open-source GPU used for the labs and projects. It includes:
+
+- the RISC-V ISA with SIMT, AI, and graphics extensions;
+- synthesizable RTL and a cycle-level simulator;
+- a kernel compiler, runtime, and host driver;
+- FPGA and ASIC flows.
 
 ## Learning Verilog
 

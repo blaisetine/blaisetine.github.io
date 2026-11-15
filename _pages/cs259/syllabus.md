@@ -25,26 +25,37 @@ See the [Schedule]({{ '/teaching/cs259/schedule/' | relative_url }}) for release
 <table class="course-table">
   <thead><tr><th>Component</th><th class="num">Weight</th><th>Details</th></tr></thead>
   <tbody>
-    <tr><td>Labs</td><td class="num">30%</td><td>3 labs on Vortex, 10 points each</td></tr>
-    <tr><td>Paper critiques</td><td class="num">20%</td><td>5 reviews, 4 points each</td></tr>
-    <tr><td>Paper presentation</td><td class="num">10%</td><td>Each student presents one paper</td></tr>
-    <tr><td>Research project</td><td class="num">35%</td><td>Proposal 10, checkpoint 10, final presentation and 4-page paper 15</td></tr>
-    <tr><td>Participation</td><td class="num">5%</td><td>QR-code attendance (you may miss 3 lectures), in class, and on the course forum</td></tr>
+    <tr><td>Labs</td><td class="num">25%</td><td>3 labs on Vortex: 5 + 10 + 10 points</td></tr>
+    <tr><td>Homework</td><td class="num">10%</td><td>5 homework assignments</td></tr>
+    <tr><td>Paper critiques</td><td class="num">10%</td><td>5 reviews, 2 points each</td></tr>
+    <tr><td>Paper presentation</td><td class="num">10%</td><td>20-minute talk in pairs</td></tr>
+    <tr><td>Midterm exam</td><td class="num">20%</td><td>In class, open book, week 6</td></tr>
+    <tr><td>Project checkpoint</td><td class="num">5%</td><td>Week 8</td></tr>
+    <tr><td>Project presentation</td><td class="num">10%</td><td>Final exam slot</td></tr>
+    <tr><td>Project report</td><td class="num">5%</td><td>4-page paper, end of quarter</td></tr>
+    <tr><td>Attendance</td><td class="num">5%</td><td>QR-code check-in; you may miss 3 lectures</td></tr>
+    <tr><td>Participation</td><td class="num">bonus</td><td>Up to 2 points: in class (the "BONUS" keyword) and on the course forum</td></tr>
   </tbody>
 </table>
 
 Letter grades: **A** for 90 and above, **B** for 80 and above, **C** for 70 and above.
 
+## Exams
+
+The midterm is in class in week 6. It is open book, with no computers, and tests your understanding of the material rather than memorization.
+
+There is no written final: the final exam slot is used for project presentations.
+
 ## Policies
 
 ### Late submissions
-Late work receives a 25% deduction.
+Late work is accepted up to one week after the deadline with a flat 10% deduction.
 
 ### Submission format
-Submissions with a wrong file name or missing files lose 5%. Submit your files directly; links to external storage are not accepted.
+Submissions with a wrong file name or missing files lose 5%.
 
 ### Regrades
 Request a regrade within one week of receiving your grade, with a written justification. A regrade request may lead to a full regrade of the assignment.
 
 ### Collaboration
-Labs may be done alone or with one partner. Paper critiques are individual work. Projects are done in teams of two or three.
+Labs may be done alone or with one partner. Paper critiques are individual work. Paper presentations are done in pairs, and projects in teams of one to three.
